@@ -1,2 +1,2 @@
 # CODSOFT
-A Repository for my CodSoft Internship
+A Repository for my CodSoft Python3 Internship
